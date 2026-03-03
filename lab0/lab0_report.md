@@ -6,7 +6,7 @@ Group: U4125
 Author: Barvinok Vsevolod Vladimirovich
 Lab: Lab0
 Date of create: 27.02.2026
-Date of finished: 02.03.2026
+Date of finished: 03.03.2026
 
 Ход работы:
 
