@@ -9,3 +9,6 @@ RUN pip install flask
 EXPOSE 5000
 
 CMD ["python", "app.py"]
+
+FROM alpine:3.20
+CMD ["echo", "Hello from Docker"]
