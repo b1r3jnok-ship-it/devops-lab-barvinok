@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: username/my-flask-app:latest
+          tags: vsevabar/my-flask-app:latest
 
       - name: Deploy
         run: echo "Hello World!"
