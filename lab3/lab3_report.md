@@ -4,7 +4,7 @@ Course: [Введение в веб технологии](https://itmo-ict-facul
 Year: 2025/2026
 Group: U4125
 Author: Barvinok Vsevolod Vladimirovich
-Lab: Lab2
+Lab: Lab3
 Date of create: 13.03.2026
 Date of finished: 16.03.2026
 
